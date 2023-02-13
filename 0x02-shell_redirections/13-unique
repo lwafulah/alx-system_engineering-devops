@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tr ' ' '\n'| sort | uniq -u 
+echo tr ' ' '\n'< 1| sort | uniq -u 
