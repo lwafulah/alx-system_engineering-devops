@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Result of BREATH to the power LOVE is:" $(echo "2^8" | bc)
