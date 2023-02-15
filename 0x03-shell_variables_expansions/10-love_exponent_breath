@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Result of BREATH to the power LOVE is:" $((2**8))
+echo $((BREATH**LOVE))
