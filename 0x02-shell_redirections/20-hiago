@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${str//[cC]/}
+echo "Input" | tr -d [cC]
